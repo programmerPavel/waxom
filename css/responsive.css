@@ -1,0 +1,143 @@
+@media(max-width:575px){
+    .menu_bg img{
+        width: 80%;
+    }
+    .navbar-collapse{
+        background-color: gray !important;
+    }
+    .navbar-toggler{
+        border: 2px solid #fff;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+    }
+    .menu_bg ul li a{
+        margin: 10px 30px;
+    }
+    .port_item {
+        text-align: center;
+    }
+    .latest_menu ul li {
+        margin: 0px 2px;
+    }
+    .latest_menu ul li a {
+        padding: 10px 5px;
+    }
+    #video {
+        padding: 100px 0;
+    }
+    .counter_item p {
+        margin-bottom: 35px;
+    }
+    .twitter3 {
+        margin-bottom: 10px;
+    }
+    .copy_right_text {
+        text-align: center;
+    }
+    .copy_right_text2 {
+        text-align: center;
+    }
+    
+}
+
+@media(min-width:576px) and (max-width:767px){
+    .menu_bg img{
+        width: 80%;
+    }
+    .navbar-collapse{
+        background-color: gray !important;
+    }
+    .navbar-toggler{
+        border: 2px solid #fff;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+    }
+    .menu_bg ul li a{
+        margin: 10px 30px;
+    }
+    .port_item {
+        text-align: center;
+    }
+    .latest_menu ul li a {
+        padding: 10px 7px;
+    }
+    #video {
+        padding: 100px 0;
+    }
+    .iphone {
+        text-align: center;
+    }
+    .iphone img{
+        width: 70%;
+    }
+    .recent_item {
+        margin-bottom: 20px;
+    }
+    .twitter3 {
+        margin-bottom: 10px;
+    }
+    .copy_right_text {
+        text-align: center;
+    }
+    .copy_right_text2 {
+        text-align: center;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .menu_bg img{
+        width: 80%;
+    }
+    .navbar-collapse{
+        background-color: gray !important;
+    }
+    .navbar-toggler{
+        border: 2px solid #fff;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        font-size: 20px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+    }
+    .menu_bg ul li a{
+        margin: 10px 30px;
+    }
+    .port_item {
+        text-align: center;
+    }
+    .latest_menu ul{
+        justify-content: center;
+    }
+    .recent_item {
+        margin-bottom: 20px;
+    }
+    .twitter3 {
+        margin-bottom: 10px;
+    }
+    .copy_right_text {
+        text-align: center;
+    }
+    .copy_right_text2 {
+        text-align: center;
+    }
+}
+@media(min-width:992px) and (max-width:1199px){
+
+}
+@media(min-width:1200px) and (max-width:1399px){
+
+}
+@media(min-width:1400px){
+
+}
